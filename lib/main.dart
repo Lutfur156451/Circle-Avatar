@@ -32,7 +32,7 @@ class _HomepageState extends State<Homepage> {
         centerTitle: true,
         backgroundColor: Color(0xffF90716),
         title: Text(
-          'Circle Avater',
+          'Circle Avatar',
           style: TextStyle(
             fontWeight: FontWeight.bold,
             letterSpacing: 1,
